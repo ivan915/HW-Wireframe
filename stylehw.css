@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
 	background: #777;
-	font-family: 'arial', "helvetica neue", helvetica, sans-serif
+	font-family: Arial, "helvetica neue", helvetica, sans-serif;
 	font-size: 18px;
 
 }
@@ -54,6 +54,7 @@ body {
 p {
    
     background-color: #ebebeb ;
+    font-family: Arial;
     margin-top: 10px;
     margin-bottom: 15px;
     padding-bottom: 30px;
